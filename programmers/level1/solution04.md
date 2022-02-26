@@ -8,6 +8,23 @@
 class Solution {
     public int solution(String s) {
         int answer = 0;
+        String[] numArray = {"zero","one","two","three","four","five"
+                                ,"six","seven","eight","nine"};
+
+        for(int i=0; i<numArray.length; i++){
+            s = s.replace(numArray[i],Integer.toString(i));
+        }
+        
+        answer = Integer.parseInt(s);
+        return answer;
+    }
+}
+```
+
+```java
+class Solution {
+    public int solution(String s) {
+        int answer = 0;
         char currC,nextC;
         
         for(int i=0; i<s.length(); i++){
@@ -56,3 +73,10 @@ class Solution {
     }
 }
 ```
+
+<br>
+<br>
+
+- - -
+## Refernce
+- <https://github.com/jki503/Algorithm_Solution/blob/main/programmers/level1/solution05.md>
