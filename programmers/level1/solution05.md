@@ -39,27 +39,6 @@ class Solution {
 ```
 
 ## 정규표현식
-
-### 유효성 검사 
-정규 표현식은 유효성 검사 코드 작성 시 가장 효율적인 방법입니다.
-
-```java
-String name = "홍길동";
-String tel = "010-1234-5678";
-String email = "test@naver.com";
-
-//유효성 검사
-boolean name_check = Pattern.matches("^[가-힣]*$", name);
-boolean tel_check = Pattern.matches("^01(?:0|1|[6-9])-(?:\\d{3}|\\d{4})-\\d{4}$", tel);
-boolean email_check = Pattern.matches("\\w+@\\w+\\.\\w+(\\.\\w+)?", email);
-
-//출력
-System.out.println("이름 : " + name_check);
-System.out.println("전화번호 : " + tel_check);
-System.out.println("이메일 : " + email_check);
-```
-
-### 정규 표현식	설명
 |표현| 설명|
 |---|---|
 |`^`   |문자열 시작|
@@ -87,9 +66,11 @@ System.out.println("이메일 : " + email_check);
 |`\D`	|숫자를 제외한 모든 문자|
 |`(?i)`	|앞 부분에 (?!)라는 옵션을 넣어주게 되면 대소문자는 구분하지 않습니다.|
 
+
 <br>
 <br>
 
 - - -
 ## Refernce
 - <https://hardlearner.tistory.com/288>
+- <https://codechacha.com/ko/java-regex/>
