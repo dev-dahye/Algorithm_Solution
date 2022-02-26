@@ -47,21 +47,19 @@
                     answerSb.append("R");
                     right.x = dirX[num];
                     right.y = dirY[num];
-                }
-                else if(distanceLeft<distanceRight){
+                } else if(distanceLeft<distanceRight){
                     //answer+="L";
                     answerSb.append("L");
                     left.x = dirX[num];
                     left.y = dirY[num];
-                }          
-                else{
+                } else{
                     // 같을땐 어떤손잡이인지 확인
                     if(hand.equals("right")){
                         //answer+="R";
                         answerSb.append("R");
                         right.x = dirX[num];
                         right.y = dirY[num];
-                    }else{
+                    } else{
                         //answer+="L";
                         answerSb.append("L");
                         left.x = dirX[num];
