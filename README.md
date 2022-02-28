@@ -18,7 +18,7 @@
 |10|[완주하지 못한 선수](/programmers/level1/solution10.md)|Java|2022.02.28|
 |11|[K번째수](/programmers/level1/solution11.md)|Java|2022.02.28|
 |12|[모의고사](/programmers/level1/solution12.md)|Java|2022.02.28|
-
+|13|[체육복](/programmers/level1/solution13.md)|Java|2022.02.28|
 
 ### Level2
 
