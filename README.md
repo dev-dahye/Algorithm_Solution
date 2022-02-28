@@ -13,6 +13,7 @@
 |5|[신규 아이디 추천](/programmers/level1/solution05.md)|Java|2022.02.26|
 |6|[음양 더하기](/programmers/level1/solution06.md)|Java|2022.02.27|
 |7|[크레인 인형뽑기 게임](/programmers/level1/solution07.md)|Java|2022.02.27|
+|8|[내적](/programmers/level1/solution08.md)|Java|2022.02.28|
 
 ### Level2
 
