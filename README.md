@@ -16,6 +16,8 @@
 |8|[내적](/programmers/level1/solution08.md)|Java|2022.02.28|
 |9|[소수 만들기](/programmers/level1/solution09.md)|Java|2022.02.28|
 |10|[완주하지 못한 선수](/programmers/level1/solution10.md)|Java|2022.02.28|
+|11|[K번째수](/programmers/level1/solution11.md)|Java|2022.02.28|
+
 
 ### Level2
 
