@@ -3,9 +3,6 @@
 - [문제](https://programmers.co.kr/learn/courses/30/lessons/42862#)
 
 ```java
-import java.util.ArrayList;
-import java.util.Collections;
-
 class Solution {
     public int solution(int n, int[] lost, int[] reserve) {
         int answer = 0;
