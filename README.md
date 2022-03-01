@@ -31,6 +31,7 @@
 |23|[부족한 금액 계산하기](/programmers/level1/solution23.md)|Java|2022.03.01|
 |24|[[1차] 비밀지도](/programmers/level1/solution24.md)|Java|2022.03.01|
 |25|[가운데 글자 가져오기](/programmers/level1/solution25.md)|Java|2022.03.01|
+|26|[[1차] 다트 게임](/programmers/level1/solution26.md)|Java|2022.03.01|
 
 ### Level2
 
