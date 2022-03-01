@@ -20,6 +20,7 @@
 |12|[모의고사](/programmers/level1/solution12.md)|Java|2022.02.28|
 |13|[체육복](/programmers/level1/solution13.md)|Java|2022.02.28|
 |14|[폰켓몬](/programmers/level1/solution14.md)|Java|2022.02.28|
+|15|[실패율](/programmers/level1/solution15.md)|Java|2022.02.29|
 
 
 ### Level2
