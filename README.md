@@ -28,6 +28,7 @@
 |20|[2016년](/programmers/level1/solution20.md)|Java|2022.02.29|
 |21|[최소직사각형](/programmers/level1/solution21.md)|Java|2022.02.29|
 |22|[나머지가 1이 되는 수 찾기](/programmers/level1/solution22.md)|Java|2022.02.29|
+|23|[부족한 금액 계산하기](/programmers/level1/solution23.md)|Java|2022.02.29|
 
 ### Level2
 
