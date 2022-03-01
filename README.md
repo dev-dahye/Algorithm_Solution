@@ -33,6 +33,7 @@
 |25|[가운데 글자 가져오기](/programmers/level1/solution25.md)|Java|2022.03.01|
 |26|[[1차] 다트 게임](/programmers/level1/solution26.md)|Java|2022.03.01|
 |27|[같은 숫자는 싫어](/programmers/level1/solution27.md)|Java|2022.03.01|
+|28|[나누어 떨어지는 숫자 배열](/programmers/level1/solution28.md)|Java|2022.03.01|
 
 ### Level2
 
