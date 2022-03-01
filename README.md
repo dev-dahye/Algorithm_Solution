@@ -26,6 +26,7 @@
 |18|[예산](/programmers/level1/solution18.md)|Java|2022.02.29|
 |19|[두 개 뽑아서 더하기](/programmers/level1/solution19.md)|Java|2022.02.29|
 |20|[2016년](/programmers/level1/solution20.md)|Java|2022.02.29|
+|21|[최소직사각형](/programmers/level1/solution21.md)|Java|2022.02.29|
 
 ### Level2
 
