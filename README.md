@@ -30,6 +30,7 @@
 |22|[나머지가 1이 되는 수 찾기](/programmers/level1/solution22.md)|Java|2022.03.01|
 |23|[부족한 금액 계산하기](/programmers/level1/solution23.md)|Java|2022.03.01|
 |24|[[1차] 비밀지도](/programmers/level1/solution24.md)|Java|2022.03.01|
+|25|[가운데 글자 가져오기](/programmers/level1/solution25.md)|Java|2022.03.01|
 
 ### Level2
 
