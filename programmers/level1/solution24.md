@@ -59,3 +59,34 @@ class Solution {
     }
 }
 ```
+
+## String.format
+
+```java
+class Solution {
+    public String[] solution(int n, int[] arr1, int[] arr2) {
+        String[] answer = new String[n];
+        
+        for(int i=0; i<n; i++){
+            answer[i] = String.format("%0"+n+"d", 
+                    Long.parseLong(Integer.toBinaryString(arr1[i] | arr2[i])));
+        }
+        
+        for(int i=0; i<n; i++){
+            answer[i] = answer[i].replace("1","#").replace("0"," ");
+        }
+        
+        return answer;
+    }
+}
+```
+
+<br>
+<br>
+
+- - -
+## Refernce
+- <https://blog.jiniworld.me/68>
+- <https://dpdpwl.tistory.com/92>
+- <https://github.com/jki503/Algorithm_Solution/blob/main/programmers/level1/solution26.md>
+
