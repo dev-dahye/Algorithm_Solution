@@ -24,6 +24,7 @@
 |16|[약수의 개수와 덧셈](/programmers/level1/solution16.md)|Java|2022.02.29|
 |17|[3진법 뒤집기](/programmers/level1/solution17.md)|Java|2022.02.29|
 |18|[예산](/programmers/level1/solution18.md)|Java|2022.02.29|
+|19|[두 개 뽑아서 더하기](/programmers/level1/solution19.md)|Java|2022.02.29|
 
 ### Level2
 
