@@ -20,15 +20,16 @@
 |12|[모의고사](/programmers/level1/solution12.md)|Java|2022.02.28|
 |13|[체육복](/programmers/level1/solution13.md)|Java|2022.02.28|
 |14|[폰켓몬](/programmers/level1/solution14.md)|Java|2022.02.28|
-|15|[실패율](/programmers/level1/solution15.md)|Java|2022.02.29|
-|16|[약수의 개수와 덧셈](/programmers/level1/solution16.md)|Java|2022.02.29|
-|17|[3진법 뒤집기](/programmers/level1/solution17.md)|Java|2022.02.29|
-|18|[예산](/programmers/level1/solution18.md)|Java|2022.02.29|
-|19|[두 개 뽑아서 더하기](/programmers/level1/solution19.md)|Java|2022.02.29|
-|20|[2016년](/programmers/level1/solution20.md)|Java|2022.02.29|
-|21|[최소직사각형](/programmers/level1/solution21.md)|Java|2022.02.29|
-|22|[나머지가 1이 되는 수 찾기](/programmers/level1/solution22.md)|Java|2022.02.29|
-|23|[부족한 금액 계산하기](/programmers/level1/solution23.md)|Java|2022.02.29|
+|15|[실패율](/programmers/level1/solution15.md)|Java|2022.03.01|
+|16|[약수의 개수와 덧셈](/programmers/level1/solution16.md)|Java|2022.03.01|
+|17|[3진법 뒤집기](/programmers/level1/solution17.md)|Java|2022.03.01|
+|18|[예산](/programmers/level1/solution18.md)|Java|2022.03.01|
+|19|[두 개 뽑아서 더하기](/programmers/level1/solution19.md)|Java|2022.03.01|
+|20|[2016년](/programmers/level1/solution20.md)|Java|2022.03.01|
+|21|[최소직사각형](/programmers/level1/solution21.md)|Java|2022.03.01|
+|22|[나머지가 1이 되는 수 찾기](/programmers/level1/solution22.md)|Java|2022.03.01|
+|23|[부족한 금액 계산하기](/programmers/level1/solution23.md)|Java|2022.03.01|
+|24|[[1차] 비밀지도](/programmers/level1/solution24.md)|Java|2022.03.01|
 
 ### Level2
 
