@@ -79,7 +79,6 @@ class Solution {
 <br>
 
 - - -
-## Refernce
-- <https://hardlearner.tistory.com/288>
+## Reference
 - <https://codechacha.com/ko/java-regex/>
 - <https://github.com/jki503/Algorithm_Solution/blob/main/programmers/level1/solution06.md>

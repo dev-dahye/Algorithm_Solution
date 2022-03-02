@@ -93,6 +93,6 @@ class Solution {
 <br>
 
 - - -
-## Refernce
+## Reference
 - <https://woovictory.github.io/2018/12/27/DataStructure-Diff-of-Array-LinkedList/>
 - <https://github.com/jki503/Algorithm_Solution/blob/main/programmers/level1/solution08.md>

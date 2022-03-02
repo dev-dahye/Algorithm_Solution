@@ -98,7 +98,7 @@ class Solution {
 <br>
 
 - - -
-## Refernce
+## Reference
 - <https://st-lab.tistory.com/243>
 - <https://velog.io/@hyeon930/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-Java>
 - <https://mangkyu.tistory.com/113>

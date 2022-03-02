@@ -78,5 +78,5 @@ class Solution {
 <br>
 
 - - -
-## Refernce
+## Reference
 - <https://github.com/jki503/Algorithm_Solution/blob/main/programmers/level1/solution05.md>

@@ -85,7 +85,7 @@ class Solution {
 <br>
 
 - - -
-## Refernce
+## Reference
 - <https://blog.jiniworld.me/68>
 - <https://dpdpwl.tistory.com/92>
 - <https://github.com/jki503/Algorithm_Solution/blob/main/programmers/level1/solution26.md>

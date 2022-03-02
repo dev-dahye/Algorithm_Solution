@@ -108,6 +108,6 @@
 
 - - -
 
-## Refernce
+## Reference
 - <https://github.com/jki503/Algorithm_Solution/blob/main/programmers/level1/solution04.md>
 - <https://hardlearner.tistory.com/288>
