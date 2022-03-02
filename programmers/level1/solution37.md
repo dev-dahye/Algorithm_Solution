@@ -2,6 +2,17 @@
 
 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12925)
 
+#### Integer.parseInt 음수도 변환 가능 
+```java
+class Solution {
+    public int solution(String s) {
+        int answer = Integer.parseInt(s);
+        
+        return answer;
+    }
+}
+```
+
 ```java
 class Solution {
     public int solution(String s) {
@@ -19,3 +30,10 @@ class Solution {
     }
 }
 ```
+
+<br>
+<br>
+
+- - -
+## Reference
+-<https://github.com/jki503/Algorithm_Solution/blob/main/programmers/level1/solution38.md>
