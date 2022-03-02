@@ -44,6 +44,7 @@
 |36|[수박수박수박수박수박수?](/programmers/level1/solution36.md)|Java|2022.03.02|
 |37|[문자열을 정수로 바꾸기](/programmers/level1/solution37.md)|Java|2022.03.02|
 |38|[시저 암호](/programmers/level1/solution38.md)|Java|2022.03.02|
+|39|[약수의 합](/programmers/level1/solution39.md)|Java|2022.03.02|
 
 ### Level2
 
