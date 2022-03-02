@@ -38,6 +38,7 @@
 |30|[문자열 내 마음대로 정렬하기](/programmers/level1/solution30.md)|Java|2022.03.01|
 |31|[문자열 내 p와 y의 개수](/programmers/level1/solution31.md)|Java|2022.03.01|
 |32|[문자열 내림차순으로 배치하기](/programmers/level1/solution32.md)|Java|2022.03.02|
+|33|[문자열 다루기 기본](/programmers/level1/solution33.md)|Java|2022.03.02|
 
 ### Level2
 
