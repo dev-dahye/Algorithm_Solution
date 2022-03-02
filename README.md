@@ -40,6 +40,7 @@
 |32|[문자열 내림차순으로 배치하기](/programmers/level1/solution32.md)|Java|2022.03.02|
 |33|[문자열 다루기 기본](/programmers/level1/solution33.md)|Java|2022.03.02|
 |34|[서울에서 김서방 찾기](/programmers/level1/solution34.md)|Java|2022.03.02|
+|35|[소수 찾기](/programmers/level1/solution35.md)|Java|2022.03.02|
 
 ### Level2
 
