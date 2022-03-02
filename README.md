@@ -47,7 +47,8 @@
 |39|[약수의 합](/programmers/level1/solution39.md)|Java|2022.03.02|
 |40|[이상한 문자 만들기](/programmers/level1/solution40.md)|Java|2022.03.02|
 |41|[자릿수 더하기](/programmers/level1/solution41.md)|Java|2022.03.02|
-|41|[자연수 뒤집어 배열로 만들기](/programmers/level1/solution41.md)|Java|2022.03.02|
+|42|[자연수 뒤집어 배열로 만들기](/programmers/level1/solution42.md)|Java|2022.03.02|
+|43|[정수 내림차순으로 배치하기](/programmers/level1/solution43.md)|Java|2022.03.02|
 
 ### Level2
 
