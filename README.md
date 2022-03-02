@@ -42,6 +42,7 @@
 |34|[서울에서 김서방 찾기](/programmers/level1/solution34.md)|Java|2022.03.02|
 |35|[소수 찾기](/programmers/level1/solution35.md)|Java|2022.03.02|
 |36|[수박수박수박수박수박수?](/programmers/level1/solution36.md)|Java|2022.03.02|
+|37|[문자열을 정수로 바꾸기](/programmers/level1/solution37.md)|Java|2022.03.02|
 
 ### Level2
 
