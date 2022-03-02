@@ -50,6 +50,7 @@
 |42|[자연수 뒤집어 배열로 만들기](/programmers/level1/solution42.md)|Java|2022.03.02|
 |43|[정수 내림차순으로 배치하기](/programmers/level1/solution43.md)|Java|2022.03.02|
 |44|[제곱근 판별](/programmers/level1/solution44.md)|Java|2022.03.02|
+|45|[제일 작은 수 제거하기](/programmers/level1/solution45.md)|Java|2022.03.02|
 
 ### Level2
 
