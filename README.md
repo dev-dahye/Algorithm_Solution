@@ -54,6 +54,7 @@
 |46|[짝수와 홀수](/programmers/level1/solution46.md)|Java|2022.03.02|
 |47|[최대공약수와 최소공배수](/programmers/level1/solution47.md)|Java|2022.03.02|
 |48|[콜라츠 추측](/programmers/level1/solution48.md)|Java|2022.03.03|
+|49|[평균 구하기](/programmers/level1/solution49.md)|Java|2022.03.03|
 
 ### Level2
 
