@@ -57,6 +57,7 @@
 |49|[평균 구하기](/programmers/level1/solution49.md)|Java|2022.03.03|
 |50|[하샤드 수](/programmers/level1/solution50.md)|Java|2022.03.03|
 |51|[핸드폰 번호 가리기](/programmers/level1/solution51.md)|Java|2022.03.03|
+|52|[행렬의 덧셈](/programmers/level1/solution52.md)|Java|2022.03.03|
 
 ### Level2
 
