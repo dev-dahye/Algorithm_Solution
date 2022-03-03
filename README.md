@@ -56,6 +56,7 @@
 |48|[콜라츠 추측](/programmers/level1/solution48.md)|Java|2022.03.03|
 |49|[평균 구하기](/programmers/level1/solution49.md)|Java|2022.03.03|
 |50|[하샤드 수](/programmers/level1/solution50.md)|Java|2022.03.03|
+|51|[핸드폰 번호 가리기](/programmers/level1/solution51.md)|Java|2022.03.03|
 
 ### Level2
 
