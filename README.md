@@ -59,6 +59,7 @@
 |51|[핸드폰 번호 가리기](/programmers/level1/solution51.md)|Java|2022.03.03|
 |52|[행렬의 덧셈](/programmers/level1/solution52.md)|Java|2022.03.03|
 |53|[x만큼 간격이 있는 n개의 숫자](/programmers/level1/solution53.md)|Java|2022.03.03|
+|54|[직사각형 별찍기](/programmers/level1/solution54.md)|Java|2022.03.03|
 
 ### Level2
 
