@@ -69,6 +69,7 @@
 |1|[게임 맵 최단거리](/programmers/level2/solution01.md)|Java|2022.02.24|
 |2|[올바른 괄호](/programmers/level2/solution02.md)|Java|2022.02.24|
 |3|[전력망을 둘로 나누기](/programmers/level2/solution03.md)|Java|2022.02.27|
+|4|[문자열 압축](/programmers/level2/solution04.md)|Java|2022.03.04|
 
 ### Level3
 
