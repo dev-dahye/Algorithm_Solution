@@ -73,6 +73,7 @@
 |5|[오픈채팅방](/programmers/level2/solution05.md)|Java|2022.03.04|
 |6|[카카오프렌즈 컬러링북](/programmers/level2/solution06.md)|Java|2022.03.04|
 |7|[멀쩡한 사각형](/programmers/level2/solution07.md)|Java|2022.03.04|
+|8|[단체사진 찍기](/programmers/level2/solution08.md)|Java|2022.03.04|
 
 ### Level3
 
