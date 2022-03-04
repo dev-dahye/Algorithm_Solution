@@ -71,6 +71,7 @@
 |3|[전력망을 둘로 나누기](/programmers/level2/solution03.md)|Java|2022.02.27|
 |4|[문자열 압축](/programmers/level2/solution04.md)|Java|2022.03.04|
 |5|[오픈채팅방](/programmers/level2/solution05.md)|Java|2022.03.04|
+|6|[카카오프렌즈 컬러링북](/programmers/level2/solution06.md)|Java|2022.03.04|
 
 ### Level3
 
