@@ -77,6 +77,7 @@
 |9|[124 나라의 숫자](/programmers/level2/solution09.md)|Java|2022.03.05|
 |10|[기능개발](/programmers/level2/solution10.md)|Java|2022.03.05|
 |11|[더 맵게](/programmers/level2/solution11.md)|Java|2022.03.05|
+|12|[타겟 넘버](/programmers/level2/solution12.md)|Java|2022.03.05|
 
 ### Level3
 
