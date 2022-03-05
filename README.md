@@ -75,6 +75,7 @@
 |7|[멀쩡한 사각형](/programmers/level2/solution07.md)|Java|2022.03.04|
 |8|[단체사진 찍기](/programmers/level2/solution08.md)|Java|2022.03.04|
 |9|[124 나라의 숫자](/programmers/level2/solution09.md)|Java|2022.03.05|
+|10|[기능개발](/programmers/level2/solution10.md)|Java|2022.03.05|
 
 ### Level3
 
