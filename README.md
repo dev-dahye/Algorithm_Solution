@@ -83,6 +83,7 @@
 |15|[메뉴 리뉴얼](/programmers/level2/solution15.md)|Java|2022.03.06|
 |16|[괄호 변환](/programmers/level2/solution16.md)|Java|2022.03.06|
 |17|[[1차] 뉴스 클러스터링](/programmers/level2/solution17.md)|Java|2022.03.06|
+|18|[거리두기 확인하기](/programmers/level2/solution18.md)|Java|2022.03.06|
 
 ### Level3
 
