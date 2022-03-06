@@ -79,6 +79,7 @@
 |11|[더 맵게](/programmers/level2/solution11.md)|Java|2022.03.05|
 |12|[타겟 넘버](/programmers/level2/solution12.md)|Java|2022.03.05|
 |13|[짝지어 제거하기](/programmers/level2/solution13.md)|Java|2022.03.05|
+|14|[행렬 테두리 회전하기](/programmers/level2/solution14.md)|Java|2022.03.06|
 
 ### Level3
 
