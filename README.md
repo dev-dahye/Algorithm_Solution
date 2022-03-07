@@ -87,6 +87,7 @@
 |19|[전화번호 목록](/programmers/level2/solution19.md)|Java|2022.03.07|
 |20|[프린터](/programmers/level2/solution20.md)|Java|2022.03.07|
 |21|[수식 최대화](/programmers/level2/solution21.md)|Java|2022.03.07|
+|22|[튜플](/programmers/level2/solution22.md)|Java|2022.03.07|
 
 ### Level3
 
