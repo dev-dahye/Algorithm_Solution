@@ -92,6 +92,7 @@
 |24|[가장 큰 수](/programmers/level2/solution24.md)|Java|2022.03.08|
 |25|[소수 찾기](/programmers/level2/solution25.md)|Java|2022.03.08|
 |26|[조이스틱](/programmers/level2/solution26.md)|Java|2022.03.08|
+|27|[예상 대진표](/programmers/level2/solution27.md)|Java|2022.03.08|
 
 ### Level3
 
