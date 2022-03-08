@@ -89,6 +89,7 @@
 |21|[수식 최대화](/programmers/level2/solution21.md)|Java|2022.03.07|
 |22|[튜플](/programmers/level2/solution22.md)|Java|2022.03.07|
 |23|[빛의 경로 사이클](/programmers/level2/solution23.md)|Java|2022.03.07|
+|24|[가장 큰 수](/programmers/level2/solution24.md)|Java|2022.03.08|
 
 ### Level3
 
