@@ -94,6 +94,7 @@
 |26|[조이스틱](/programmers/level2/solution26.md)|Java|2022.03.08|
 |27|[예상 대진표](/programmers/level2/solution27.md)|Java|2022.03.08|
 |28|[순위 검색](/programmers/level2/solution28.md)|Java|2022.03.08|
+|29|[후보키](/programmers/level2/solution29.md)|Java|2022.03.09|
 
 ### Level3
 
