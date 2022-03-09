@@ -96,6 +96,7 @@
 |28|[순위 검색](/programmers/level2/solution28.md)|Java|2022.03.08|
 |29|[후보키](/programmers/level2/solution29.md)|Java|2022.03.09|
 |30|[괄호 회전하기](/programmers/level2/solution30.md)|Java|2022.03.09|
+|31|[배달](/programmers/level2/solution31.md)|Java|2022.03.09|
 
 ### Level3
 
