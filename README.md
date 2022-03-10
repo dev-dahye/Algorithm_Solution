@@ -99,6 +99,7 @@
 |31|[배달](/programmers/level2/solution31.md)|Java|2022.03.09|
 |32|[위장](/programmers/level2/solution32.md)|Java|2022.03.09|
 |33|[다리를 지나는 트럭](/programmers/level2/solution33.md)|Java|2022.03.09|
+|34|[H-Index](/programmers/level2/solution34.md)|Java|2022.03.10|
 
 ### Level3
 
