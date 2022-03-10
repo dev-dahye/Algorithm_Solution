@@ -102,6 +102,7 @@
 |34|[H-Index](/programmers/level2/solution34.md)|Java|2022.03.10|
 |35|[카펫](/programmers/level2/solution35.md)|Java|2022.03.10|
 |36|[큰 수 만들기](/programmers/level2/solution36.md)|Java|2022.03.10|
+|37|[피로도](/programmers/level2/solution37.md)|Java|2022.03.10|
 
 ### Level3
 
