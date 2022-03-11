@@ -106,6 +106,7 @@
 |38|[[1차] 프렌즈4블록](/programmers/level2/solution38.md)|Java|2022.03.10|
 |39|[2개 이하로 다른 비트](/programmers/level2/solution39.md)|Java|2022.03.11|
 |40|[삼각 달팽이](/programmers/level2/solution40.md)|Java|2022.03.11|
+|41|[영어 끝말잇기](/programmers/level2/solution41.md)|Java|2022.03.11|
 
 ### Level3
 
