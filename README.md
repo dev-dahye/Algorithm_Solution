@@ -109,6 +109,7 @@
 |41|[영어 끝말잇기](/programmers/level2/solution41.md)|Java|2022.03.11|
 |42|[주식가격](/programmers/level2/solution42.md)|Java|2022.03.11|
 |43|[구명보트](/programmers/level2/solution43.md)|Java|2022.03.11|
+|44|[교점에 별 만들기](/programmers/level2/solution44.md)|Java|2022.03.14|
 
 ### Level3
 
