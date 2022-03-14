@@ -113,6 +113,7 @@
 |45|[모음사전](/programmers/level2/solution45.md)|Java|2022.03.14|
 |46|[[1차] 캐시](/programmers/level2/solution46.md)|Java|2022.03.14|
 |47|[이진 변환 반복하기](/programmers/level2/solution47.md)|Java|2022.03.14|
+|48|[점프와 순간 이동](/programmers/level2/solution48.md)|Java|2022.03.14|
 
 ### Level3
 
