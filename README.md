@@ -115,6 +115,7 @@
 |47|[이진 변환 반복하기](/programmers/level2/solution47.md)|Java|2022.03.14|
 |48|[점프와 순간 이동](/programmers/level2/solution48.md)|Java|2022.03.14|
 |49|[n^2 배열 자르기](/programmers/level2/solution49.md)|Java|2022.03.15|
+|49|[쿼드압축 후 개수 세기](/programmers/level2/solution49.md)|Java|2022.03.15|
 
 ### Level3
 
