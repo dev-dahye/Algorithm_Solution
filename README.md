@@ -117,6 +117,7 @@
 |49|[n^2 배열 자르기](/programmers/level2/solution49.md)|Java|2022.03.15|
 |50|[쿼드압축 후 개수 세기](/programmers/level2/solution50.md)|Java|2022.03.15|
 |51|[스킬트리](/programmers/level2/solution51.md)|Java|2022.03.15|
+|52|[방문 길이](/programmers/level2/solution52.md)|Java|2022.03.15|
 
 ### Level3
 
