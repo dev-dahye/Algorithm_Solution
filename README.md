@@ -119,6 +119,7 @@
 |51|[스킬트리](/programmers/level2/solution51.md)|Java|2022.03.15|
 |52|[방문 길이](/programmers/level2/solution52.md)|Java|2022.03.15|
 |53|[[3차] 방금그곡](/programmers/level2/solution53.md)|Java|2022.03.15|
+|54|[가장 큰 정사각형 찾기](/programmers/level2/solution54.md)|Java|2022.03.16|
 
 ### Level3
 
