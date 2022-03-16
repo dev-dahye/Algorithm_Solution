@@ -19,7 +19,6 @@ class Solution {
     }
     
     public String solution(int n, int t, int m, int p) {
-        String answer = "";
         int order = 2;
         int number = 1;
         StringBuilder mine = new StringBuilder();
