@@ -127,6 +127,7 @@
 |59|[땅따먹기](/programmers/level2/solution59.md)|Java|2022.03.17|
 |60|[k진수에서 소수 개수 구하기](/programmers/level2/solution60.md)|Java|2022.03.17|
 |61|[숫자의 표현](/programmers/level2/solution61.md)|Java|2022.03.17|
+|62|[주차 요금 계산](/programmers/level2/solution62.md)|Java|2022.03.17|
 
 ### Level3
 
