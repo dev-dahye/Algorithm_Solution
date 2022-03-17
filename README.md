@@ -124,6 +124,7 @@
 |56|[[3차] 파일명 정렬](/programmers/level2/solution56.md)|Java|2022.03.16|
 |57|[[3차] n진수 게임](/programmers/level2/solution57.md)|Java|2022.03.16|
 |58|[다음 큰 숫자](/programmers/level2/solution58.md)|Java|2022.03.16|
+|59|[땅따먹기](/programmers/level2/solution59.md)|Java|2022.03.17|
 
 ### Level3
 
