@@ -134,6 +134,7 @@
 |66|[행렬의 곱셈](/programmers/level2/solution66.md)|Java|2022.03.18|
 |67|[JadenCase 문자열 만들기](/programmers/level2/solution67.md)|Java|2022.03.18|
 |68|[N개의 최소공배수](/programmers/level2/solution68.md)|Java|2022.03.18|
+|69|[양궁대회](/programmers/level2/solution69.md)|Java|2022.03.18|
 
 ### Level3
 
