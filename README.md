@@ -130,6 +130,7 @@
 |62|[주차 요금 계산](/programmers/level2/solution62.md)|Java|2022.03.17|
 |63|[최댓값과 최솟값](/programmers/level2/solution63.md)|Java|2022.03.17|
 |64|[최솟값 만들기](/programmers/level2/solution64.md)|Java|2022.03.18|
+|65|[피보나치 수](/programmers/level2/solution65.md)|Java|2022.03.18|
 
 ### Level3
 
