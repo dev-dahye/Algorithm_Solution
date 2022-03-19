@@ -141,3 +141,4 @@
 |No.|Name|Language|Date|
 |:---:|:---:|:---:|:---:|
 |1|[네트워크](/programmers/level3/solution01.md)|Java|2022.02.27|
+|2|[[1차] 추석 트래픽](/programmers/level3/solution02.md)|Java|2022.03.19|
