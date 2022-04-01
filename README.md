@@ -143,3 +143,4 @@
 |1|[네트워크](/programmers/level3/solution01.md)|Java|2022.02.27|
 |2|[[1차] 추석 트래픽](/programmers/level3/solution02.md)|Java|2022.03.19|
 |3|[다단계 칫솔 판매](/programmers/level3/solution03.md)|Java|2022.04.01|
+|4|[입국심사](/programmers/level3/solution04.md)|Java|2022.04.01|
