@@ -61,6 +61,18 @@
 |53|[x만큼 간격이 있는 n개의 숫자](/programmers/level1/solution53.md)|Java|2022.03.03|
 |54|[직사각형 별찍기](/programmers/level1/solution54.md)|Java|2022.03.03|
 |55|[신고 결과 받기](/programmers/level1/solution55.md)|Java|2022.03.03|
+|56|[추억점수](/programmers/level1/solution56.md)|Java|2023.04.03|
+|57|[공원 산책](/programmers/level1/solution57.md)|Java|2023.04.03|
+|58|[바탕화면 정리](/programmers/level1/solution58.md)|Java|2023.04.04|
+|59|[삼총사](/programmers/level1/solution59.md)|Java|2023.04.18|
+|60|[크기가 작은 부분 문자열](/programmers/level1/solution60.md)|Java|2023.04.18|
+|61|[콜라 문제](/programmers/level1/solution61.md)|Java|2023.04.18|
+|62|[푸드 파이트 대회](/programmers/level1/solution62.md)|Java|2023.04.18|
+|63|[가장 가까운 같은 글자](/programmers/level1/solution63.md)|Java|2023.04.18|
+|64|[명예의 전당 (1)](/programmers/level1/solution64.md)|Java|2023.04.18|
+|65|[과일 장수](/programmers/level1/solution65.md)|Java|2023.04.18|
+
+
 
 ### Level2
 
