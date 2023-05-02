@@ -101,7 +101,7 @@
 |21|[수식 최대화](/programmers/level2/solution21.md)|Java|2022.03.07|
 |22|[튜플](/programmers/level2/solution22.md)|Java|2022.03.07|
 |23|[빛의 경로 사이클](/programmers/level2/solution23.md)|Java|2022.03.07|
-|24|[가장 큰 수](/programmers/level2/solution24.md)|Java|2022.03.08|
+|24|[가장 큰 수](/programmers/level2/solution24.md)|Java|2023.04.24|
 |25|[소수 찾기](/programmers/level2/solution25.md)|Java|2022.03.08|
 |26|[조이스틱](/programmers/level2/solution26.md)|Java|2022.03.08|
 |27|[예상 대진표](/programmers/level2/solution27.md)|Java|2022.03.08|
@@ -147,6 +147,8 @@
 |67|[JadenCase 문자열 만들기](/programmers/level2/solution67.md)|Java|2022.03.18|
 |68|[N개의 최소공배수](/programmers/level2/solution68.md)|Java|2022.03.18|
 |69|[양궁대회](/programmers/level2/solution69.md)|Java|2022.03.18|
+|70|[상담예약제](/programmers/level2/solution70.md)|Java|2023.05.02|
+|71|[티셔츠](/programmers/level2/solution71.md)|Java|2023.05.02|
 
 ### Level3
 
@@ -157,3 +159,5 @@
 |3|[다단계 칫솔 판매](/programmers/level3/solution03.md)|Java|2022.04.01|
 |4|[입국심사](/programmers/level3/solution04.md)|Java|2022.04.01|
 |5|[기지국 설치](/programmers/level3/solution05.md)|Java|2023.04.21|
+|6|[예산](/programmers/level3/solution06.md)|Java|2023.04.25|
+|7|[숫자게임](/programmers/level3/solution07.md)|Java|2023.04.25|
