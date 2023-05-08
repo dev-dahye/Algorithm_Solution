@@ -78,7 +78,7 @@
 
 |No.|Name|Language|Date|
 |:---:|:---:|:---:|:---:|
-|1|[게임 맵 최단거리](/programmers/level2/solution01.md)|Java|2022.02.24|
+|1|[게임 맵 최단거리](/programmers/level2/solution01.md)|Java|2023.05.08|
 |2|[올바른 괄호](/programmers/level2/solution02.md)|Java|2022.02.24|
 |3|[전력망을 둘로 나누기](/programmers/level2/solution03.md)|Java|2022.02.27|
 |4|[문자열 압축](/programmers/level2/solution04.md)|Java|2022.03.04|
@@ -161,3 +161,9 @@
 |5|[기지국 설치](/programmers/level3/solution05.md)|Java|2023.04.21|
 |6|[예산](/programmers/level3/solution06.md)|Java|2023.04.25|
 |7|[숫자게임](/programmers/level3/solution07.md)|Java|2023.04.25|
+
+### Level4
+
+|No.|Name|Language|Date|
+|:---:|:---:|:---:|:---:|
+|1|[올바른 괄호의 갯수](/programmers/level4/solution01.md)|Java|2023.05.08|
