@@ -161,6 +161,7 @@
 |5|[기지국 설치](/programmers/level3/solution05.md)|Java|2023.04.21|
 |6|[예산](/programmers/level3/solution06.md)|Java|2023.04.25|
 |7|[숫자게임](/programmers/level3/solution07.md)|Java|2023.04.25|
+|8|[정수 삼각형](/programmers/level3/solution08.md)|Java|2023.05.09|
 
 ### Level4
 
